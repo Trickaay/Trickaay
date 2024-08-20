@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 
-
-
+<p align="center"><img src="https://github.com/Trickaay/Trickaay/blob/main/ava.png">
+</p>
 <h1 align="center">👋 Hello, I'm Richard 👨🏻‍💻</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Devops+to+be;Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;Gamer;" alt="Typing SVG" />
