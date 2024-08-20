@@ -13,7 +13,7 @@
   Content Creator | Gamer | Tech Enthusiast</br>
 </br>
 </br>
- 🛠️ Tools and languages
+ 🛠️ When i code i rely on
 </h2>
 
 <div align="center">
