@@ -29,7 +29,9 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Keen interes in Cloud Computing, and high-quality streaming technologies. With a proven track record of driving innovation, I am comitted to fostering an inclusive workplace that enables myself and others to achieve their best selves. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+Software developer with Advanced project and team management skills, with a proven track record of driving innovation.
+I am comitted to fostering an inclusive workplace that enables myself and others to achieve their best selves. 
+My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
 <h3 align="center">Git Stats</h3>
 
