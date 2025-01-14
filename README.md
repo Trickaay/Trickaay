@@ -29,7 +29,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-Software developer with Advanced project and team management skills, with a proven track record of driving innovation.
+Aspiring Software developer with Advanced project and team management skills and with a proven track record of driving innovation.
 I am comitted to fostering an inclusive workplace that enables myself and others to achieve their best selves. 
 My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
