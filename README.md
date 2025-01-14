@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">👋 Hello, I'm Richard 👨🏻‍💻</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=;Solution;Python enthusiast;Gamer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=;Aspiring+Software+Engineer;Game+Developer;Python+Engineer;Gamer;" alt="Typing SVG" />
 
 </p>
 
@@ -29,7 +29,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-Aspiring Software developer with Advanced project and team management skills and  a proven track record of driving innovation.
+Software developer with Advanced project and team management skills, with a proven track record of driving innovation.
 I am comitted to fostering an inclusive workplace that enables myself and others to achieve their best selves. 
 My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
