@@ -1,75 +1,42 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 
-<p align="center"><img src="https://github.com/Trickaay/Trickaay/blob/main/ava.png">
-</p>
-<h1 align="center">👋 Hello, I'm Richard 👨🏻‍💻</h1>
+>
+<h1 align="center">👋 Hi, I'm Richard 👨🏻‍💻</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=;Aspiring+Software+Engineer;Game+Developer;Python+Engineer;Gamer;" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Student+%40+the+Open+University;Graphics+%26+GPU+Programming;Computational+Physics;Compiler%2FDSL+Design&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22">
 </p>
 
-<h2 align="center">
-  Content Creator | Gamer | Tech Enthusiast</br>
-</br>
-</br>
- 🛠️ When i code i rely on
-</h2>
+## What I build
 
-<div align="center">
- 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-</div>
-</br>
-</br>
+I'm currently focused on **[Relativity](https://github.com/Trickaay/relativity)** — a from-scratch physics-simulation and rendering project. The centerpiece is a small compiler for a Python-like kernel DSL that targets SDL3's new GPU API (compute *and* graphics shaders), proving a real shader pipeline can run alongside pygame's legacy 2D drawing in the same frame. It includes:
 
+- A hand-written lexer/parser/GLSL-codegen compiler, proven on a real GPU BVH build-and-traverse pipeline (Karras binary-radix trees, a stable parallel radix sort, primary-ray traversal)
+- Procedurally rendered planets with real physically-based shading: altitude-banded biome coloring, ray-marched Rayleigh/Mie atmospheric scattering, and photosphere granulation on the sun
+- 
+I'm currently studying Computing at the Open University, building this project alongside my coursework.
 
-<h2 align="center">🚀 About Me</h2>
+## Technologies
 
-Aspiring Software developer with Advanced project and team management skills and with a proven track record of driving innovation.
-I am comitted to fostering an inclusive workplace that enables myself and others to achieve their best selves. 
-My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/GLSL%20%2F%20Shaders-3776AB?style=for-the-badge&logo=opengl&logoColor=white">
+  <img src="https://img.shields.io/badge/SDL3-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/pygame-3776AB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Taichi-EE4C2C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-<h3 align="center">Git Stats</h3>
+## GitHub stats
 
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=Trickaay&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trickaay&custom_title=Trickaay's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trickaay&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trickaay&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trickaay&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Trickaay&show_icons=true&theme=default&hide_border=true">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Trickaay&hide_border=true">
+</p>
 
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Trickaay&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trickaay&theme=highcontrast&hide_border=true">
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">Git Stats Summary</summary>
-  <img src="https://myreadme.vercel.app/api/embed/Trickaay?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Trickaay's GitHub Stats">
-</details>
-
-<br>
-  
-</h2>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trickaay&layout=compact&hide_border=true">
+</p>
